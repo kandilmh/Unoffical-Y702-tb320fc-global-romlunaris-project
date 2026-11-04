@@ -1,2 +1,1 @@
-# -Unoffical-Y702-tb320fc-global-rom-lunaris-project
-y702 lunaris
+ROM biuld is done but not tested yet have no time
