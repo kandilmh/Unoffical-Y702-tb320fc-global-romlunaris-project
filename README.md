@@ -2,7 +2,8 @@
 
 Lenovo Legion Y700 2023 (TB320FC, 코드네임 asphalt)용 비공식 Lunaris-AOSP 롬입니다.
 
-- 현재 LTbox를 통한 KernelSU설치가 안됩니다 차후 재빌드 해서 지원하도록 할 예정입니다. 
+- 현재 LTbox를 통한 KernelSU설치가 안됩니다 차후 재빌드 해서 지원하도록 할 예정입니다.
+- magisk는 30.7 버젼으로 가능합니다
 - Android 16 / Lunaris 3.13, GMS 포함
 - 펌웨어 기준: ZUI 17.0.373 (TB320FC_ROW_OPEN_USER_Q00031.0_V_ZUI_17.0.373_ST_260912)
 
